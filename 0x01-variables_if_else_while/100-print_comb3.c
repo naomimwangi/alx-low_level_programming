@@ -1,12 +1,10 @@
 #include <stdio.h>
 
 /**
- *  * main - print double digit combos
- *   *
- *    * Description: print double digit combos
- *     *
- *      * Return: Always 0 (Success)
- *       */
+ * main - print double digit combos
+ * Description: print double digit combos
+ * Return: Always 0 (Success)
+ */
 
 int main(void)
 {
