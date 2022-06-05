@@ -5,6 +5,7 @@
  * and print the last digit of the number stored in the variable n
  * Return: Always 0 (Success)
  */
+
 int main(void)
 {
 	int ch;
@@ -17,6 +18,7 @@ int main(void)
 			{
 				putchar(ch);
 				putchar(n);
+
 				if (ch != 56 || n != 57)
 				{
 					putchar(44);
