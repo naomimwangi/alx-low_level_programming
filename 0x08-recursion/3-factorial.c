@@ -16,4 +16,4 @@ int factorial(int n)
 	else
 		return (n * factorial(n - 1)); /*Recursive call*/
 
-
+}
